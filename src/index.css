@@ -3,11 +3,12 @@
 
 @theme {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
-  --color-outlook-blue: #0078d4;
-  --color-outlook-dark: #106ebe;
-  --color-outlook-bg: #f3f2f1;
+  --color-docusign-blue: #005cb9;
+  --color-docusign-dark: #004a99;
+  --color-docusign-yellow: #ffcc00;
+  --color-docusign-bg: #f4f4f4;
 }
 
 body {
-  @apply bg-outlook-bg text-slate-900 font-sans;
+  @apply bg-docusign-bg text-slate-900 font-sans;
 }
